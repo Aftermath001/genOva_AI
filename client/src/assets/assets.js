@@ -1,5 +1,6 @@
 import logo from "./GenOvaLogo.png";
-import gradientBackground from "./gradientBackground.png";
+import gradientBackground from "./Gradient-Background.jpg";
+
 import user_group from "./user_group.png";
 import star_icon from "./star_icon.svg";
 import star_dull_icon from "./star_dull_icon.svg";
